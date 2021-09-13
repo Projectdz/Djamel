@@ -1,5 +1,5 @@
  
-## Logiciel de Gestion Magasin : 
+## 1/ Logiciel de Gestion Magasin : 
 
 
 
@@ -7,14 +7,14 @@
  
  
  
-## Logiciel Flexy:
+## 2/  Logiciel Flexy:
 
 
  
  ![Capture](https://user-images.githubusercontent.com/37224589/133127215-d77fb14f-78e0-4a0a-97ba-5ff241452c58.PNG)
  
 
-##  Logiciel cabinet medical:
+##  3/  Logiciel cabinet medical:
  
  
  
