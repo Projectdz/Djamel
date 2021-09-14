@@ -15,6 +15,11 @@
  
 
 ##  3/  Logiciel cabinet medical:
+
+![Capture1](https://user-images.githubusercontent.com/37224589/133285299-50f13f75-13fd-41f7-81d3-01cf8fb99cb4.PNG)
  
- 
+ ![Capture2](https://user-images.githubusercontent.com/37224589/133285282-b904cf88-0789-4bb3-9d08-d99ca63a0623.PNG)
+
+![Capture3](https://user-images.githubusercontent.com/37224589/133285294-5f072bab-d10f-42f6-beb3-fae378510993.PNG)
+
  
