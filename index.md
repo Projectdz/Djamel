@@ -1,6 +1,6 @@
  
 ## 1/ Logiciel de Gestion Magasin : 
- logiciel pour faire des devis et des factures de façon automatisée. 
+ Logiciel pour faire des devis et des factures de façon automatisée. 
 <br> 
 
  ![cc](https://user-images.githubusercontent.com/37224589/132993270-168083e8-093d-460f-9256-19f99783a298.PNG)
@@ -9,7 +9,7 @@
  
 ## 2/  Logiciel Flexy:
 
-logiciel de transfert de crédit ver tous les opérateurs (ooredoo , djezzy , mobilis) 
+Logiciel de transfert de crédit ver tous les opérateurs (ooredoo , djezzy , mobilis) 
 
 <br> 
  
@@ -18,7 +18,7 @@ logiciel de transfert de crédit ver tous les opérateurs (ooredoo , djezzy , mo
 <br> 
 
 ##  3/  Logiciel cabinet medical:
-Le logiciel est permet la gestion de cabinet medical , dispose d'une base de données de près de 4000 médicaments.
+ Permet la gestion de cabinet medical , dispose d'une base de données de près de 4000 médicaments.
 <br> 
 
 ![Capture1](https://user-images.githubusercontent.com/37224589/133285299-50f13f75-13fd-41f7-81d3-01cf8fb99cb4.PNG)
