@@ -2,10 +2,21 @@
 ## 1/ Logiciel de Gestion Magasin : 
  Logiciel pour faire des devis et des factures de façon automatisée. 
 <br> 
-
  ![cc](https://user-images.githubusercontent.com/37224589/132993270-168083e8-093d-460f-9256-19f99783a298.PNG)
+
+<br> <br> 
+<br> 
+ ![cpap](https://user-images.githubusercontent.com/37224589/159131126-beaad870-1739-4188-a05e-e35a31fb7af3.png)
+ <br> 
  
  <br> 
+  
+![Capturecac](https://user-images.githubusercontent.com/37224589/159131023-6dc81b95-a9a0-4919-ba79-932d3c6f00fe.png)
+
+  <br> 
+ <br> 
+ 
+ 
  
 ## 2/  Logiciel Flexy:
 
